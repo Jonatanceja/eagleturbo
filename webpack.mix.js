@@ -19,6 +19,18 @@ mix
   ])
   .setPublicPath('public/')
   .disableSuccessNotifications()
+  .browserSync({
+    proxy: 'eagleturbo.test',
+    notify: false,
+    files: [
+        './resources',
+        './site/models',
+        './site/controllers',
+        './site/templates',
+        './site/snippets',
+        './content'
+    ]
+  });
 
 if (mix.inProduction()) {
     mix.version()

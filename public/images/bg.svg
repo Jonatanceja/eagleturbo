@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="720px" height="930px" viewBox="0 0 720 930" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 2</title>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-721.000000, -115.000000)">
+            <g id="Group-2" transform="translate(721.000000, 115.000000)">
+                <path d="M719,5.68434189e-14 L274.722024,5.68434189e-14 L25.9328909,538.095844 C11.5966183,569.103182 25.0431388,605.865018 56.0026182,620.304352 L719,929.522744 L719,929.522744 L719,5.68434189e-14 Z" id="Path-Copy" fill="#FF576B"></path>
+                <path d="M719,0 L309.722024,0 L61.2740449,531.027447 C46.7496052,562.036023 60.1289227,598.941922 91.1439015,613.452676 C91.1484639,613.45481 91.1530265,613.456944 91.1639889,613.445391 L719,907 L719,907 L719,0 Z" id="Path" fill="#DF3348"></path>
+            </g>
+        </g>
+    </g>
+</svg>

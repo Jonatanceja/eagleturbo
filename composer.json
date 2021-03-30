@@ -23,7 +23,11 @@
         "beebmx/kirby-env": "^2.0",
         "beebmx/kirby-blade": "^3.0",
         "k-community/markdown-field": "^1.0",
-        "sylvainjule/locator": "^1.0"
+        "sylvainjule/locator": "^1.0",
+        "cre8ivclick/formbuilder": "^1.1",
+        "kirbyzone/formbuilder": "^1.1",
+        "timoetting/kirby-builder": "^2.0",
+        "ramsey/uuid": "^4.1"
     },
     "config": {
         "optimize-autoloader": true

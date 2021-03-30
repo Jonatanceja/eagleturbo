@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="378px" viewBox="0 0 1440 378" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Dropdown" transform="translate(0.000000, -162.000000)">
+            <g id="Group" transform="translate(0.000000, 162.261873)">
+                <polygon id="Path-2" fill="#F0F0F0" points="0 376.738127 1440 50.7381272 1440 376.738127"></polygon>
+                <polygon id="Path-3" fill="#ECECEC" points="1440 50.7381272 1440 0 0 376.738127"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

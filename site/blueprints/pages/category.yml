@@ -1,0 +1,32 @@
+title: Category
+preset: pages
+icon: 📗
+templates: 
+  - product
+
+options:
+  url: false
+  status: false
+  delete: false
+
+listed:
+  extends: sections/products
+  headline: Published products
+  layout: cards
+
+drafts:
+  extends: sections/products
+  headline: Unpublished products
+
+sidebar:
+  image:
+    type: fields
+    fields:
+      image: 
+        type: files
+        max: 1
+        label: Product image
+        layout: cards
+        image:
+          cover: true
+          ratio: 1/1

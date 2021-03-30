@@ -1,0 +1,26 @@
+title: Contacto
+icon: 📨
+sections:
+  content:
+    type: fields
+    fields:
+      street:
+        type: text
+        label: Street
+      number: 
+        type: number
+        label: number
+      city:
+        type: text
+        label: City
+      state:
+        type: text
+        label: State
+      zip:
+        type: number
+        label: Zip Code
+      map:
+        label: Map
+        type: textarea
+  formulario:
+    extends: formbuilder

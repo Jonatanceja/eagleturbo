@@ -1,0 +1,177 @@
+Title: About
+
+----
+
+Headline: The best option for the service of your turbo
+
+----
+
+Text: We are a company dedicated to the Commercialization of Spare Parts for the repair of Turbos, We offer various spare parts, and alternative products that allow us to diversify the business, each with the best selection of products.
+
+----
+
+Bgimage:
+
+- cover2-bg.jpg
+
+----
+
+Abouttitle: Quality
+
+----
+
+Aboutsubtitle: Price &
+
+----
+
+Abouttext: We guarantee competitive prices, quality of our products and services, which has earned us the preference and trust of our customers. We are always at your disposal to replace, repair or change the fault, or component of your turbo.
+
+----
+
+Aboutimage:
+
+- turbo-open.png
+
+----
+
+Valuestitle: We promote the following values ​​for our clients and workers
+
+----
+
+Valuessubtitle: Values
+
+----
+
+Blurbs:
+
+- 
+  icon:
+    - support-1.svg
+  blurbtitle: Client Service
+  blurbtext: >
+    Offer quality merchandise, a variety of
+    products, always remembering that
+    service is the essence of our business.
+- 
+  icon:
+    - strategy.svg
+  blurbtitle: Excellence
+  blurbtext: "It involves innovating, continually improving and going one step further to exceed our customers' expectations."
+- 
+  icon:
+    - target.svg
+  blurbtitle: Respect
+  blurbtext: >
+    Work in a tolerant, dignified
+    environment with equal opportunities,
+    promoting the development of working
+    people.
+
+----
+
+Missioninfo:
+
+- 
+  missionicon: [ ]
+  missiontitle: Mission
+  missiontext: >
+    To be a consolidated and recognized
+    company in the commercialization, supply
+    and distribution of products and
+    supplies for the TURBO
+- 
+  missionicon: [ ]
+  missiontitle: Vision
+  missiontext: >
+    To be a consolidated and recognized
+    company in the commercialization, supply
+    and distribution of products and
+    supplies for the TURBO
+
+----
+
+Ctaheadline: Innovation & Technology
+
+----
+
+Ctatext: We combine innovative technology and industry knowledge to deliver value-added service support that helps keep your applications and your business running at peak productivity.
+
+----
+
+Ctabg:
+
+- CTA-about.jpg
+
+----
+
+Buttontext:
+
+- 
+  text: Explore our Catalog
+  link: '#'
+
+----
+
+Image:
+
+- 
+  filename: cover2-bg.jpg
+  dragText: '(image: cover2-bg.jpg)'
+  icon:
+    type: file-image
+    ratio: 3/2
+    back: pattern
+    color: '#de935f'
+    cover: false
+    url: >
+      http://eagleturbo.test/media/pages/about/f27c13a91f-1616542600/cover2-bg.jpg
+    cards:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://eagleturbo.test/media/pages/about/f27c13a91f-1616542600/cover2-bg-352x.jpg
+        352w,
+        http://eagleturbo.test/media/pages/about/f27c13a91f-1616542600/cover2-bg-864x.jpg
+        864w,
+        http://eagleturbo.test/media/pages/about/f27c13a91f-1616542600/cover2-bg-1408x.jpg
+        1408w
+    list:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://eagleturbo.test/media/pages/about/f27c13a91f-1616542600/cover2-bg-38x38.jpg
+        1x,
+        http://eagleturbo.test/media/pages/about/f27c13a91f-1616542600/cover2-bg-76x76.jpg
+        2x
+  id: about/cover2-bg.jpg
+  image:
+    ratio: 3/2
+    back: pattern
+    cover: false
+    url: >
+      http://eagleturbo.test/media/pages/about/f27c13a91f-1616542600/cover2-bg.jpg
+    cards:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://eagleturbo.test/media/pages/about/f27c13a91f-1616542600/cover2-bg-352x.jpg
+        352w,
+        http://eagleturbo.test/media/pages/about/f27c13a91f-1616542600/cover2-bg-864x.jpg
+        864w,
+        http://eagleturbo.test/media/pages/about/f27c13a91f-1616542600/cover2-bg-1408x.jpg
+        1408w
+    list:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://eagleturbo.test/media/pages/about/f27c13a91f-1616542600/cover2-bg-38x38.jpg
+        1x,
+        http://eagleturbo.test/media/pages/about/f27c13a91f-1616542600/cover2-bg-76x76.jpg
+        2x
+  info: ""
+  link: /pages/about/files/cover2-bg.jpg
+  text: cover2-bg.jpg
+  type: image
+  url: >
+    http://eagleturbo.test/media/pages/about/f27c13a91f-1616542600/cover2-bg.jpg
+  uuid: cover2-bg.jpg

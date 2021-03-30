@@ -1,0 +1,111 @@
+title: About
+icon: 👨🏼‍💻
+sections:
+  aboutCover:
+    type: fields
+    fields:
+      coverIntro:
+        label: Cover
+        type: headline
+      headline:
+        label: Headline
+        type: text
+      text:
+        label: Text
+        type: textarea
+      bgImage:
+        label: Image
+        type: files
+        max: 1
+  
+  aboutIntro:
+    type: fields
+    fields: 
+      intro:
+        label: Intro
+        type: headline
+      aboutTitle:
+        type: text
+        label: Title
+      aboutSubtitle:
+        type: text
+        label: Subtitle
+      aboutText:
+        type: textarea
+        label: Text
+      aboutImage:
+        type: files
+        label: Image
+        max: 1
+
+  values:
+    type: fields
+    fields: 
+      valuesHeadline:
+        type: headline
+        label: Values
+      valuesTitle: 
+        type: text
+        label: Title
+      valuesSubtitle:
+        type: text
+        label: Subtitle
+      blurbs:
+        type: structure
+        label: Blurbs
+        fields:
+          icon:
+            type: files
+            max: 1
+            label: Icon
+          blurbTitle:
+            type: text
+            label: Title
+          blurbText:
+            type: textarea
+            label: Text
+  
+  mission:
+    type: fields
+    fields: 
+      missionHeadline:
+        type: headline
+        label: Mission and Vision
+      missionInfo:
+        type: structure
+        label: Mission and Vision
+        fields:
+          missionTitle:
+            type: text
+            label: Title
+          missionText:
+            type: textarea
+            label: Text 
+
+  cta:
+    type: fields
+    fields:
+      ctaTitle:
+        label: Call to action
+        type: headline
+      ctaheadline:
+        label: Title
+        type: text
+      ctaText:
+        label: Text
+        type: textarea
+      ctaBg:
+        label: Background
+        type: files
+        max: 1
+      buttonText:
+        label: Button
+        type: structure
+        fields:
+          text:
+            label: Button text
+            type: text
+          link:
+            label: Link
+            type: text 
+

@@ -1,0 +1,8 @@
+type: pages
+headline: Products
+template: product
+info: "{{ page.tags }} / {{ page.code }}"
+image:
+  src: page.image
+  ratio: 1/1
+  back: pattern

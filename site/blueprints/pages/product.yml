@@ -1,0 +1,54 @@
+title: Product
+preset: page
+
+
+fields:
+  productCode: 
+    type: text
+    label: Product code
+  tags:
+    type: text
+    label: Aplication
+    width: 1/2
+  category:
+    type: select
+    label: Category
+    width: 1/2
+    options: 
+      turbo: Turbo
+      cartidge: Cartridge
+      propeller: Propeller
+      arrow: Arrow
+      plate: Plate
+      geometry: Geometry
+      coller: Coller
+      repairkit: Repair Kit
+  info:
+    type: textarea
+    label: Product info
+  inducer:
+    type: text
+    label: Inducer
+    width: 1/2
+  exducer:
+    type: text
+    label: Exducer
+    width: 1/2
+  relatedPages:
+    label: Product
+    type: pages
+
+
+sidebar:
+  image:
+    type: fields
+    fields:
+      productImage: 
+        type: files
+        max: 1
+        label: Product image
+        layout: cards
+        image:
+          cover: true
+          ratio: 1/1
+

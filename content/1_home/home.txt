@@ -1,0 +1,145 @@
+Title: Home
+
+----
+
+Headline: Sale and Spare Parts for any kind of Turbos
+
+----
+
+Text: Eagle Turbo is renowned for quality, service, and customer satisfaction. We carry an extensive inventory of original spare parts and interchangeable components. Eagle Turbo offers a custom inventory that ensures your critical parts are immediately available.
+
+----
+
+Button:
+
+- 
+  text: Watch more
+  link: '#'
+
+----
+
+Rimage:
+
+- turbo-small.png
+
+----
+
+Subtitleintro: Change your Turbo
+
+----
+
+Titleintro: Spare Parts
+
+----
+
+Textintro: Eagle Turbo maintains an extensive inventory of turbocharger spare parts. As an authorized parts distributor for most major manufacturers, we have access to original manufacturer drawings and data. This enables us to quickly and accurately identify required spare parts and make critical deliveries on time. In conjunction with our integrated freight forwarding service, we can execute domestic and international shipments 24/7.
+
+----
+
+Buttonintro:
+
+- 
+  text: Explore our catalog
+  link: '#'
+
+----
+
+Sliderheadline: Turbochargers for all brands
+
+----
+
+Sliderbutton: Watch more
+
+----
+
+Sliderlink: /turbos
+
+----
+
+Slides:
+
+- turbo-small-slider.png
+
+----
+
+Catalog:
+
+- 
+  image:
+    - cartridge.png
+  name: Cartridges
+  buttontext: 'Watch more '
+  link: /cartridge
+- 
+  image:
+    - propela.png
+  name: Propellers
+  buttontext: Watch more
+  link: /propellers
+
+----
+
+Catalog2:
+
+- 
+  image:
+    - arrow.png
+  name: Arrows
+  buttontext: Watch more
+  link: /arrows
+- 
+  image:
+    - plate.png
+  name: Plates
+  buttontext: Watch more
+  link: /plates
+- 
+  image:
+    - geometria.png
+  name: Geometrys
+  buttontext: Watch more
+  link: /geometrys
+- 
+  image:
+    - cooller.png
+  name: Coolers
+  buttontext: Watch more
+  link: /coolers
+- 
+  image:
+    - kits.png
+  name: Repair kits
+  buttontext: Watch more
+  link: /repair-kits
+
+----
+
+Featuredpages:
+
+- catalog/turbos/turbo-k16
+
+----
+
+Ctaheadline: Get all the parts you need, **contact us**
+
+----
+
+Ctatext: Get in touch with any of our representatives.
+
+----
+
+Ctabg:
+
+- bg-cta.jpg
+
+----
+
+Buttontext:
+
+- 
+  text: Contact Us
+  link: '#'
+
+----
+
+Image: - turbo.png

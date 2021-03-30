@@ -1,0 +1,155 @@
+title: Home
+icon: 🏠
+sections:
+  cover:
+    type: fields
+    fields:
+      coverIntro:
+        label: Cover
+        type: headline
+      headline:
+        label: Headline
+        type: text
+      text:
+        label: Text
+        type: textarea
+      button:
+        label: Button
+        type: structure
+        fields:
+          text:
+            label: Button text
+            type: text
+          link:
+            label: Link
+            type: text 
+      rimage:
+        label: Image
+        type: files
+        max: 1
+
+  intro:
+    type: fields
+    fields: 
+      intro:
+        label: Introduction
+        type: headline
+      subtitleIntro:
+        label: Sub-Headline
+        type: text
+      titleIntro:
+        label: Headline
+        type: text
+      textIntro:
+        label: Text
+        type: textarea
+      buttonIntro:
+        label: Button
+        type: structure
+        fields:
+          text:
+            label: Button text
+            type: text
+          link:
+            label: Link
+            type: text 
+  
+  catalog:
+    type: fields
+    fields: 
+      catalogTitle:
+        label: Catalog
+        type: headline
+      sliderHeadline:
+        label: Slider headline
+        type: text
+      sliderButton:
+        label: Button text
+        type: text
+      sliderLink:
+        label: Button link 
+        type: text
+      slides:
+        label: Slides
+        type: files
+      catalog:
+        label: Catalog
+        type: structure
+        fields:
+          image:
+            label: Image
+            type: files
+          name: 
+            type: text
+            label: name
+          buttonText: 
+            type: text
+            label: Button text
+          link:
+            type: text
+            label: Button link
+      catalog2:
+        label: false
+        type: structure
+        fields:
+          image:
+            label: Image
+            type: files
+          name: 
+            type: text
+            label: name
+          buttonText: 
+            type: text
+            label: Button text
+          link:
+            type: text
+            label: Button link
+
+
+
+  
+  featured:
+    type: fields
+    fields:
+      featuredTitle:
+        label: Featured products
+        type: headline
+      featuredPages:
+        label: Product
+        type: pages
+
+  cta:
+    type: fields
+    fields:
+      ctaTitle:
+        label: Call to action
+        type: headline
+      ctaheadline:
+        label: Title
+        type: textarea
+      ctaText:
+        label: Text
+        type: textarea
+      ctaBg:
+        label: Background
+        type: files
+        max: 1
+      buttonText:
+        label: Button
+        type: structure
+        fields:
+          text:
+            label: Button text
+            type: text
+          link:
+            label: Link
+            type: text 
+
+      
+
+          
+
+      
+
+
+
